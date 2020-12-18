@@ -1,0 +1,26 @@
+﻿  LZ77.cpp
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(12): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(64): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(65): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(103): warning C4018: '>=': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(227): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(234): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(235): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(247): warning C4018: '<': signed/unsigned mismatch
+c:\users\szkielo\source\repos\lz77\lz77\lz77.cpp(297): warning C4018: '<': signed/unsigned mismatch
+  LZ77.vcxproj -> C:\Users\Szkielo\source\repos\LZ77\Debug\LZ77.exe
