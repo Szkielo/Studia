@@ -1,0 +1,4 @@
+231
+312
+
+Liczba wygenerowanych nieporzadkow: 2
