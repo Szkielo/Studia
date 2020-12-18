@@ -1,0 +1,45 @@
+
+Podaj ilosc zmiennych: 6
+Podaj ilosc implicentow: 15
+Wygenerowane losowe wyrazenie: (x1 v x2 v x3 v -x5) && (x1 v -x2 v x4 v x6) && (-x1 v -x2 v x4 v x6) && (-x1 v x2 v x3 v x6) && (x1 v -x2 v x4 v -x5) && (x1 v -x2 v x3 v -x4) && (x1 v x2 v -x3 v x6) && (x1 v -x2 v -x5 v -x6) && (-x1 v x3 v x4 v -x6) && (-x1 v x2 v -x4 v -x5) && (x1 v x3 v -x4 v x5) && (x1 v -x3 v -x5 v x6) && (-x1 v -x2 v -x3 v -x4) && (-x1 v x4 v x5 v -x6) && (x1 v -x2 v x4 v x6)
+Wylosowane wartosci poczatkowe zmiennych: 
+x1 = 1   x2 = 1   x3 = 1   x4 = 0   x5 = 0   x6 = 0   
+Zanegowano zmienna: x2
+x1 = 1   x2 = 0   x3 = 1   x4 = 0   x5 = 0   x6 = 0   
+Zanegowano zmienna: x6
+x1 = 1   x2 = 0   x3 = 1   x4 = 0   x5 = 0   x6 = 1   
+Zanegowano zmienna: x1
+x1 = 0   x2 = 0   x3 = 1   x4 = 0   x5 = 0   x6 = 1   
+Zanegowano zmienna: x6
+x1 = 0   x2 = 0   x3 = 1   x4 = 0   x5 = 0   x6 = 0   
+Zanegowano zmienna: x4
+x1 = 0   x2 = 0   x3 = 1   x4 = 1   x5 = 0   x6 = 0   
+Zanegowano zmienna: x2
+x1 = 0   x2 = 1   x3 = 1   x4 = 1   x5 = 0   x6 = 0   
+Zanegowano zmienna: x6
+x1 = 0   x2 = 1   x3 = 1   x4 = 1   x5 = 0   x6 = 1   
+Zanegowano zmienna: x6
+x1 = 0   x2 = 1   x3 = 1   x4 = 1   x5 = 0   x6 = 0   
+Zanegowano zmienna: x4
+x1 = 0   x2 = 1   x3 = 1   x4 = 0   x5 = 0   x6 = 0   
+Zanegowano zmienna: x1
+x1 = 1   x2 = 1   x3 = 1   x4 = 0   x5 = 0   x6 = 0   
+Zanegowano zmienna: x4
+x1 = 1   x2 = 1   x3 = 1   x4 = 1   x5 = 0   x6 = 0   
+Zanegowano zmienna: x1
+x1 = 0   x2 = 1   x3 = 1   x4 = 1   x5 = 0   x6 = 0   
+Zanegowano zmienna: x4
+x1 = 0   x2 = 1   x3 = 1   x4 = 0   x5 = 0   x6 = 0   
+Zanegowano zmienna: x6
+x1 = 0   x2 = 1   x3 = 1   x4 = 0   x5 = 0   x6 = 1   
+Zanegowano zmienna: x2
+x1 = 0   x2 = 0   x3 = 1   x4 = 0   x5 = 0   x6 = 1   
+Zanegowano zmienna: x4
+x1 = 0   x2 = 0   x3 = 1   x4 = 1   x5 = 0   x6 = 1   
+Zanegowano zmienna: x1
+x1 = 1   x2 = 0   x3 = 1   x4 = 1   x5 = 0   x6 = 1   
+Zanegowano zmienna: x5
+x1 = 1   x2 = 0   x3 = 1   x4 = 1   x5 = 1   x6 = 1   
+Zanegowano zmienna: x6
+x1 = 1   x2 = 0   x3 = 1   x4 = 1   x5 = 1   x6 = 0   
+

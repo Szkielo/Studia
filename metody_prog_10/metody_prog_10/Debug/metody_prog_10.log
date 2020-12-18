@@ -1,0 +1,4 @@
+﻿  metody_prog_10.cpp
+c:\users\szkieło\source\repos\metody_prog_10\metody_prog_10\metody_prog_10.cpp(133): warning C4101: 'test': unreferenced local variable
+c:\users\szkieło\source\repos\metody_prog_10\metody_prog_10\metody_prog_10.cpp(215): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  metody_prog_10.vcxproj -> C:\Users\Szkieło\source\repos\metody_prog_10\Debug\metody_prog_10.exe
