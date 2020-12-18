@@ -1,0 +1,16 @@
+
+Podaj liczbe wejsc (n) z zakresu [1, 10]: 5Podaj liczbe stanow okreslonych z zakresu [1, 32)]: 5
+X	Y
+
+11110	0
+00010	1
+11001	1
+10100	1
+00011	1
+
+------------------
+L = 0
+MUX0(00) = 1
+MUX0(01) = -
+MUX0(10) = 1
+MUX0(11) = x5

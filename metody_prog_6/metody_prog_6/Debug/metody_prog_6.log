@@ -1,0 +1,4 @@
+﻿  metody_prog_6.cpp
+c:\users\szkieło\source\repos\metody_prog_6\metody_prog_6\metody_prog_6.cpp(241): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\szkieło\source\repos\metody_prog_6\metody_prog_6\metody_prog_6.cpp(251): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  metody_prog_6.vcxproj -> C:\Users\Szkieło\source\repos\metody_prog_6\Debug\metody_prog_6.exe

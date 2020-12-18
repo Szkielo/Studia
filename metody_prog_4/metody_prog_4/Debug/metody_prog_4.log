@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  metody_prog_4.cpp
+c:\users\kaiti_user\source\repos\metody_prog_4\metody_prog_4\metody_prog_4.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  metody_prog_4.vcxproj -> C:\Users\KAiTI_USER\source\repos\metody_prog_4\Debug\metody_prog_4.exe

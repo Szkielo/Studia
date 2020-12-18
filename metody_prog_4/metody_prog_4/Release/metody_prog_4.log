@@ -1,0 +1,9 @@
+﻿  metody_prog_4.cpp
+c:\users\szkieło\source\repos\metody_prog_4\metody_prog_4\metody_prog_4.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\szkieło\source\repos\metody_prog_4\metody_prog_4\metody_prog_4.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  8 of 156 functions ( 5.1%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  metody_prog_4.vcxproj -> C:\Users\Szkieło\source\repos\metody_prog_4\Release\metody_prog_4.exe
